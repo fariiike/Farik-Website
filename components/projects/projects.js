@@ -14,17 +14,17 @@ export default function Projects() {
         { name: "JavaScript", level: 80 },
       ]
     },
-    {
-      title: "A website for a startup",
-      image: "./assets/projects/taswik.png",
-      description: "This is a simple website that displays the work of a virtual company and contains a home page + pages about us, ; blog; services; + contact page / and an admin page protected by Google login ouath. ",
-      link: "https://fariiik.infinityfreeapp.com",
+        {
+      title: "Our channel on Youtube",
+      image: "./assets/projects/youtube.png",
+      description: "Our YouTube channel, Fariiik, offers programming content in an enjoyable and engaging way, and relatively quickly.",
+      link: "https://youtube.com/@fariiiq",
       stats: [
-        { name: "HTML+CSS+JS", level: 50 },
-        { name: "PHP", level: 60 },
-        { name: "MYSQL", level: 30 },
+        { name: "Video Editing", level: 70 },
+        { name: "Teaching", level: 40 },
+        { name: "Programming", level: 60 },
       ]
-    },
+    }
   ];
 
   const html = `
